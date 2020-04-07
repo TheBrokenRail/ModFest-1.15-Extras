@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
     "id": "modfest-extras",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "name": "ModFest Extras",
     "description": "Extra Resources for the ModFest 1.15 Modpack",
     "icon": "assets/modfest/icon.png",
